@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aditya11-svg
+- 👋 Hi, I’m Aditya Shukla
 - 👀 you can get all the source code of my projects in github
 - 🌱 I’m currently learning javascript and react.js
 - 📫 you can reach me on as5524801@gmail.com
